@@ -120,3 +120,13 @@ title="See more information on Transifex.com"><img src="https://ds0k0en9abmn1.cl
 * Gitter chat: [gitter.im/gitextensions/gitextensions](https://gitter.im/gitextensions/gitextensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 * Mailing list: [groups.google.com/group/gitextensions](https://groups.google.com/group/gitextensions)
 
+## Contributors
+
+[![0](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/0)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/0)
+[![1](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/1)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/1)
+[![2](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/2)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/2)
+[![3](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/3)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/3)
+[![4](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/4)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/4)
+[![5](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/5)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/5)
+[![6](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/6)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/6)
+[![7](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/images/7)](https://sourcerer.io/fame/KindDragon/gitextensions/gitextensions/links/7)
